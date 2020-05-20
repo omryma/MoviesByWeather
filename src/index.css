@@ -1,0 +1,16 @@
+.ui.search >.results .result {
+  padding: 0.2em;
+}
+
+.ui.search>.results .result .image img {
+  height: 90%;
+  width: auto;
+}
+
+.ui.search>.results .result .image+.content {
+  margin: 0em;
+}
+
+.ui.search>.results {
+  text-align: center;
+}
